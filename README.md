@@ -9,6 +9,7 @@
 ![image](https://github.com/user-attachments/assets/b70ee872-5053-40e1-a36e-ed25623bf2a1)
 
 
+## Citation
 
 
 ## Acknowledgement
@@ -17,4 +18,5 @@ Thank you for the support from various organisations:
 - NVIDIA
 - UbuntuNet Alliance
 - Dedan Kimathi University of Technology
+- Aga Khan University Hospital, Orthopedic Department
 
