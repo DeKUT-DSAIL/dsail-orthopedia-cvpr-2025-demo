@@ -36,8 +36,11 @@ Accurate limb alignment and joint motion assessment are crucial in orthopedic pr
 ## Acknowledgement
 
 Thank you for the support from various organisations:
+- ARM
 - NVIDIA
 - UbuntuNet Alliance
 - Dedan Kimathi University of Technology
 - Aga Khan University Hospital, Orthopedic Department
+- AI4D
+- IDRC
 
