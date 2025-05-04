@@ -46,5 +46,5 @@ Thank you for the support from various organisations:
 - AI4D
 - IDRC
 
-We are open to comments and feedback. Please write to us: antonyg <at> aims.ac.za or clinton.mwangi <at> dkut.ac.ke
+We are open to comments and feedback. Please write to us: antonyg at aims.ac.za or clinton.mwangi at dkut.ac.ke
 
