@@ -10,6 +10,17 @@
 
 
 ## Citation
+    @INPROCEEDINGS{10187816,
+      author={Gitau, Antony and Kulankash, Victor and Wanjema, Gachathi and Maina, Ciira Wa},
+      booktitle={2023 IST-Africa Conference (IST-Africa)}, 
+      title={Comparison of Wearable and Computer Vision Based Approaches to Knee Flexion Angle Measurement}, 
+      year={2023},
+      volume={},
+      number={},
+      pages={1-9},
+      keywords={Computer vision;Hospitals;Wearable computers;Computational modeling;Prototypes;Data visualization;Developing countries;Joint Flexion Angle;Orthopaedic Care;Human Pose Model;Wearable Device},
+      doi={10.23919/IST-Africa60249.2023.10187816}}
+
 
 
 ## Acknowledgement
