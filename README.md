@@ -3,16 +3,16 @@
 DSAIL-Orthopedia: A computer vision-based software for automated measurements of flexion angle and lower limb alignment
 
 ## Description
-
-![image](https://github.com/user-attachments/assets/36de02cd-85a0-42a5-baa6-93554f1e02cb)
-
-[Watch a one-minute demo](https://youtu.be/PHuZLeWg2A8)
-
 <details>
 <summary><strong>Abstract</strong> (Click to expand)</summary>
 
 Accurate limb alignment and joint motion assessment are crucial in orthopedic practice for diagnosing and treating musculoskeletal conditions. Though reliable, traditional methods like full-length X-rays involve radiation exposure and require specialized equipment, limiting their utility in various clinical settings. Additionally, visual inspection and palpation techniques for flexion angle measurements are prone to human error due to manual data entry. This paper presents Orthopedia, a web application that utilizes MediPipe pose estimation to address the challenges of the traditional approaches. Orthopedia leverages real-time video streaming from a camera to automatically identify the joint centers of the hip, knee, and ankle. By applying trigonometric theory, Orthopedia calculates, stores, and retrieves hip-knee-ankle (HKA) and knee flexion angles, thereby digitizing the assessment data. This approach offers a more accessible and non-invasive alternative to traditional methods. This method also eliminates the need for specialized equipment and radiation exposure and reduces the reliance on manual data entry and physical touch, making it a more comfortable and cost-effective solution for patients.
 </details>
+
+![image](https://github.com/user-attachments/assets/36de02cd-85a0-42a5-baa6-93554f1e02cb)
+
+[Watch a one-minute demo](https://youtu.be/PHuZLeWg2A8)
+
 
 
 ## System Architecture:
