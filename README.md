@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/36de02cd-85a0-42a5-baa6-93554f1e02cb)
 
+[Watch a one-minute demo](https://youtu.be/PHuZLeWg2A8)
+
 
 ## System Architecture:
 ![image](https://github.com/user-attachments/assets/b70ee872-5053-40e1-a36e-ed25623bf2a1)
