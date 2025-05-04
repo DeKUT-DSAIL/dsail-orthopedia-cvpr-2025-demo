@@ -13,7 +13,7 @@ Accurate limb alignment and joint motion assessment are crucial in orthopedic pr
 
 [Watch a one-minute demo](https://youtu.be/PHuZLeWg2A8)
 
-
+[View Poster (PDF)](DSAIL-Orthopedia_poster.pdf)
 
 ## System Architecture:
 ![image](https://github.com/user-attachments/assets/b70ee872-5053-40e1-a36e-ed25623bf2a1)
