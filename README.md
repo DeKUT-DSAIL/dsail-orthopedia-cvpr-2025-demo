@@ -45,6 +45,7 @@ Thank you for the support from various organisations:
 - Aga Khan University Hospital, Orthopedic Department
 - AI4D
 - IDRC
+- AIMS South Africa
 
 We are open to comments and feedback. Please write to us: antonyg at aims.ac.za or clinton.mwangi at dkut.ac.ke
 
