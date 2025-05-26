@@ -1,4 +1,4 @@
-# DSAIL-Orthopedia demo at CVPR 2025 
+# DSAIL-Orthopedia at CVPR 2025 [Demo](https://cvpr.thecvf.com/Conferences/2025/CallForDemos)
 
 DSAIL-Orthopedia: A computer vision-based software for automated measurements of flexion angle and lower limb alignment
 
